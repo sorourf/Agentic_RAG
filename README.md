@@ -85,3 +85,10 @@ Below is a high-level depiction of how the pieces fit together. For more clarity
    ```bash
    git clone https://github.com/your-username/agentic-rag.git
    cd agentic-rag
+---
+
+## References
+
+- [Agentic RAG Overview YouTube Video](https://www.youtube.com/watch?v=_R-ff4ZMLC8)  
+- [Weaviate Blog: What is Agentic RAG?](https://weaviate.io/blog/what-is-agentic-rag)
+
