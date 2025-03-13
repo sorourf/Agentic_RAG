@@ -51,6 +51,8 @@ In this setup, we:
 Below is a high-level depiction of how the pieces fit together. For more clarity on the overall “Agentic RAG” flow, see this diagram:
 
 ![Agent RAG Diagram](images/agentic_rag.png)
+![Data Flow Diagram](images/data_flow.png)
+
 
 1. **Crawl & Chunk**  
    We use `crawl4ai` to fetch all pages from sitemaps (`Pydantic AI` or `LangChain`).  
